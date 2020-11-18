@@ -17,7 +17,7 @@ def predict_price(area) -> float:
     """
     response = requests.get(TRAIN_DATA_URL)
     # YOUR IMPLEMENTATION HERE
-    ...
+    
 
 
 if __name__ == "__main__":
